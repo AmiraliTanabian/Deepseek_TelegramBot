@@ -14,11 +14,17 @@ In step three, you need to provide a brief description of your requirements in t
   
 ```git clone https://github.com/AmiraliTanabian/Deepseek_TelegramBot.git && cd Deepseek_TelegramBot```
 <li><b>Installing the required packages</b></li><br>
-```pip install telebot openai```
+
+```
+pip install telebot openai
+```
+
   <li><b>Run</b></li> <br>
+  
 ```
 python3 main.py
 ```
+
 </ul>
 
 ## Explain for "stream=False"
