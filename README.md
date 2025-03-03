@@ -11,4 +11,8 @@ Go to the link https://platform.deepseek.com/api_keys, create an API token, copy
 <li><b>Entering the bot usage (optional)</b></li> <br>
 In step three, you need to provide a brief description of your requirements in the "BotEfficiency" variable. This will help DeepSeek's language model better understand your needs (optional).
 <li><b>Forking the repository</b></li>
+```
+git clone https://github.com/AmiraliTanabian/Deepseek_TelegramBot.git && cd Deepseek_TelegramBot 
+```
+  
 </ul>
